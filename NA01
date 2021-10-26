@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>...</head>
+  <body>...</body>
+</html>
+<!doctype html>
+<html>
+  <head>
+    <title>Document title</title>
+  </head>
+</html>
+<title>Grandma's Heavy Metal Festival Journal</title>
+<base target="_top" href="https://example.com/">
+<meta charset="utf-8">
+<style>
+      body {
+         font-size: 26px;
+         font-family: sans-serif;
+         background-color: blue;
+      }
+</style>
+<script>
+  alert("Hello World!");
+</script>
+<noscript>
+  <!-- anchor linking to external file -->
+  <a href="https://www.mozilla.com/">External Link</a>
+</noscript>
+<p>Rocks!</p>
+<div id="container"></div>
+
+<template id="template">
+  <div>Click me</div>
+</template>
+<section>
+<h1>Cabeçalho</h1>
+<p>Um monte de conteúdo incrível</p>
+</section>
+<nav>
+  <ul>
+    <li><a href="#">Página inicial</a></li>
+    <li><a href="#">Sobre</a></li>
+    <li><a href="#">Contato</a></li>
+  </ul>
+</nav>
+<article>
+  <h4>Um artigo realmente impressionante</h4>
+  <p>Lotes de texto incrível.</p>
+</article>
+<h1>Brigadeiro</h1>
+<h2>Ingredientes</h2>
+	
+<ul>
+  <li></li>
+</ul>
+
+<h3>Modo de preparo</h3>
+<body>
+  <hgroup id="document-title">
+    <h1>HTML</h1>
+    <h2>Living Standard — Last Updated 12 August 2016</h2>
+  </hgroup>
+  <p>Some intro to the document.</p>
+  <h2>Table of contents</h2>
+  <ol id=toc>...</ol>
+  <h2>First section</h2>
+  <p>Some intro to the first section.</p>
+</body>
+<header>
+  <h1>Main Page Title</h1>
+  <img src="mdn-logo-sm.png" alt="MDN logo">
+</header>
+<footer>
+  Some copyright info or perhaps some author
+  info for an &lt;article&gt;?
+</footer>
+<address>
+  </address>
+  <body>
+  <a href="#main-content">Skip to main content</a>
+
+  <!-- navigation and header content -->
+
+  <main id="main-content">
+    <!-- main page content -->
+  </main>
+</body>
+<p>How hard to read? See for yourself:
+  <hr>
+  <button data-toggle-text="Oh no! Switch back!">Use pilcrow for paragraphs</button>
+  
+</p>
